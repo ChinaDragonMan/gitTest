@@ -19,4 +19,3 @@
 这是第root_file1--19行内容
 这是第root_file1--20行内容
 这是carver2017修改的内容1
-这是carver2017修改的内容2
