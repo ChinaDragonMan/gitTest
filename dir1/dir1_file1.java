@@ -8,6 +8,8 @@ xiaobai insert oneline2
 这是第dir1_file1--4行内容
 这是第dir1_file1--5行内容
 这是第dir1_file1--6行内容
+xiaobai插入111
+xiaobai插入222
 这是第dir1_file1--7行内容
 这是第dir1_file1--8行内容
 这是第dir1_file1--9行内容
