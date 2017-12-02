@@ -3,6 +3,8 @@
 这是第dir1_file1--3行内容
 carverInsert oneline1
 carverInsert oneline2
+xiaobai insert oneline1
+xiaobai insert oneline2
 这是第dir1_file1--4行内容
 这是第dir1_file1--5行内容
 这是第dir1_file1--6行内容
