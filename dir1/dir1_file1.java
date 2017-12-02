@@ -10,6 +10,8 @@ xiaobai insert oneline2
 这是第dir1_file1--6行内容
 carcer 插入1
 carver 插入2
+xiaobai插入111
+xiaobai插入222
 这是第dir1_file1--7行内容
 这是第dir1_file1--8行内容
 这是第dir1_file1--9行内容
